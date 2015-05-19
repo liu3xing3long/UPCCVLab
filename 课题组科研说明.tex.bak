@@ -15,7 +15,7 @@
             urlcolor=cyan}
 
 
-\title{实验室科研说明 V1.0} %标题
+\title{课题组科研说明 V1.0} %标题
 \author{宫延河}
 \date{2015年05月17日} %日期，不加默认为当前日期
 
@@ -23,12 +23,24 @@
 
 \maketitle
 
-\section{安全与健康}
+%\section{安全与健康}
+%
+%\begin{enumerate}
+%\item 无论什么时候什么情况下，安全与健康永远都是第一位的！
+%\item 我们崇尚快乐科研，高效工作！
+%\item 优秀离不开坚持不懈专注用心的努力，但安全和健康要比任何事都重要，以下要求请务必在保证安全和身体健康的前提下进行！
+%\end{enumerate}
+
+\section{目标}
 
 \begin{enumerate}
-\item 无论什么时候什么情况下，安全与健康永远都是第一位的！
-\item 我们崇尚快乐科研，高效工作！
-\item 优秀离不开坚持不懈专注用心的努力，但安全和健康要比任何事都重要，以下要求请务必在保证安全和身体健康的前提下进行！
+
+\item 打造顶尖的研究团队
+
+\item 从事顶尖的研究工作
+
+\item 建立顶尖的人脉网络
+
 \end{enumerate}
 
 \section{科研时间}
@@ -150,9 +162,19 @@
 
 \begin{description}
 
-\item[《CV之路》、《学术知识普及》]祥见群共享
+\item[入门]中科院自动化所献给CV和CG入门者之科研经验浅问细答兼与大家探讨 祥见群共享
 
-\item[石大可视化课题组程序归档规范] https://github.com/imistyrain/UPCRules
+\item[入门]《学术知识普及》祥见群共享
+
+\item[入门] 研究所新生完全求生手册 祥见群共享
+
+\item[基础]《CV之路》祥见群共享
+
+\item[基础]《数学之美》、浪潮之巅 祥见群共享
+
+
+
+\item[资料备份] \href{https://github.com/imistyrain/UPCRules}{石大可视化课题组程序归档规范}
 
 \end{description}
 
@@ -195,7 +217,7 @@
 
 \item[写] 必须通过邮件、文档等尽力进行英文写作训练，只读不写无法有真正的提高。
 
-\item[听] 在非工作时间可以讨论观看励志、科技等方面的英文视频。
+\item[听] 在非工作时间可以讨论观看励志、科技等方面的英文视频,工作时间可以观看\href{http://vision.ouc.edu.cn/valse/}{VALSE}和\href{http://techtalks.tv/}{techtalk}上的视频
 
 \item[说] 每位研究生在就读期间争取能够到国外参加一次国际会议，以锻炼与人英语沟通的能力。
 
