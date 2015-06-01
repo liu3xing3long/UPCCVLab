@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.4.7)  17 MAY 2015 16:12
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.4.7)  23 MAY 2015 16:20
 entering extended mode
 **课题组科研说明.tex
-(F:\StudyProducts\UPCCVLab-master\课题组科研说明.tex
+(F:\StudyProducts\UPCCVLab\课题组科研说明.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (d:\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -21,7 +21,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(F:\StudyProducts\UPCCVLab-master\styles/iplouccfg.sty
+(F:\StudyProducts\UPCCVLab\styles/iplouccfg.sty
 
 LaTeX Warning: You have requested package `styles/iplouccfg',
                but the package provides `iplouccfg'.
@@ -348,7 +348,7 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip58
 \dth@everypar=\toks27
 ))
-(F:\StudyProducts\UPCCVLab-master\styles/zhfontcfg.sty
+(F:\StudyProducts\UPCCVLab\styles/zhfontcfg.sty
 
 LaTeX Warning: You have requested package `styles/zhfontcfg',
                but the package provides `zhfontcfg'.
@@ -909,7 +909,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 LaTeX Warning: Unused global option(s):
     [a4paper，12pt].
 
-(F:\StudyProducts\UPCCVLab-master\课题组科研说明.aux)
+(F:\StudyProducts\UPCCVLab\课题组科研说明.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -958,8 +958,8 @@ LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
 LaTeX Info: Redefining \nameref on input line 22.
 
-(F:\StudyProducts\UPCCVLab-master\课题组科研说明.out)
-(F:\StudyProducts\UPCCVLab-master\课题组科研说明.out)
+(F:\StudyProducts\UPCCVLab\课题组科研说明.out)
+(F:\StudyProducts\UPCCVLab\课题组科研说明.out)
 \@outlinefile=\write3
 .................................................
 . fontspec info: "setup-math"
@@ -1112,22 +1112,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
  [1
 
-] [2] [3]
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+] [2] [3] [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
- (F:\StudyProducts\UPCCVLab-master\课题组科研说明.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
+
+(F:\StudyProducts\UPCCVLab\课题组科研说明.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 272.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 272.
  ) 
 Here is how much of TeX's memory you used:
  19933 strings out of 430478
- 382208 string characters out of 3191503
+ 382159 string characters out of 3191503
  414390 words of memory out of 3000000
  22840 multiletter control sequences out of 15000+200000
  7752 words of font info for 59 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,6n,45p,688b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,6n,45p,688b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on 课题组科研说明.pdf (5 pages).
