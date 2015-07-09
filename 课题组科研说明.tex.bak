@@ -113,9 +113,9 @@
 
 \begin{itemize}
 
-\item 一级会议：ICCV、CVPR、ECCV、ICML
+\item 一级会议：ICCV、CVPR、ECCV、ICML、NIPS
 
-\item 二级会议：BMVC、ICIP、ICPR、ACCV
+\item 二级会议：BMVC、ICIP、ICPR、ACCV、IAPR MVA
 
 \end{itemize}
 
@@ -123,9 +123,9 @@
 
 \begin{itemize}
 
-\item 国际期刊：PAMI、IJCV、PR、TIP
+\item 国际期刊：PAMI、IJCV、PR、TIP、PR Letters
 
-\item 国内期刊：计算机学报、自动化学报、电子学报、中国科学F辑、计算机辅助几何设计技术及应用、中国图象图形学报
+\item 国内期刊：计算机学报、自动化学报、电子学报、软件学报、中国科学F辑、计算机辅助几何设计技术及应用、中国图象图形学报、模式识别与人工智能，光电子激光，光学 精密工程
 
 \end{itemize}
 
@@ -159,7 +159,7 @@
 
 \item[编译工具] CMake 3.2
 
-\item[编程语言] Matlab 2015a及以上与C/C++(VC6.0 OpenCV1.0 \& 2.4.*) VS2010/VS2012(for DeepLearning)
+\item[编程语言] Matlab 2015a及以上与C/C++(VC6.0 OpenCV1.0 \& 2.4.*) VS2013(由于github大量使用了C++11特性，VS2012及以下对其支持不充分)
 
 \item[并行加速工具] CUDA6.5
 
