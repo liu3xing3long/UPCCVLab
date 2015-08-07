@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.4.7)  22 JUN 2015 16:36
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.8.7)  7 AUG 2015 20:58
 entering extended mode
 **课题组科研说明.tex
 (F:\StudyProducts\UPCCVLab\课题组科研说明.tex
@@ -866,34 +866,34 @@ Package: CJKnumb 2008/12/29 4.8.2
 .................................................
 . fontspec info: "no-scripts"
 . 
-. Font SimHei does not contain any OpenType `Script' information.
+. Font SimSun does not contain any OpenType `Script' information.
 .................................................
-\g_fontspec_family_SimHei_int=\count201
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font SimHei/B (it probably doesn't exist).
-.................................................
+\g_fontspec_family_SimSun_int=\count201
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font SimHei/I (it probably doesn't exist).
+. Could not resolve font SimSun/B (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font SimHei/BI (it probably doesn't exist).
+. Could not resolve font SimSun/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/BI (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimHei(0)' created for font 'SimHei' with options
+. Font family 'SimSun(0)' created for font 'SimSun' with options
 . [Mapping=tex-text,].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"SimHei/ICU:mapping=tex-text;"
+. <->"SimSun/ICU:mapping=tex-text;"
 .................................................
 )
 (d:\CTEX\MiKTeX\tex\generic\oberdiek\se-ascii-print.def
@@ -1027,14 +1027,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 . 
 . Font SimSun does not contain any OpenType `Script' information.
 .................................................
-\g_fontspec_family_SimSun_int=\count278
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
+. Font family 'SimSun(1)' created for font 'SimSun' with options
 . [Mapping=tex-text,ItalicFont={SimSun},ItalicFeatures={RawFeature={slant=0.17}
-},BoldItalicFont={SimHei},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
-=SimHei].
+},BoldItalicFont={SimSun},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
+=SimSun].
 . 
 . This font family consists of the following shapes:
 . 
@@ -1042,13 +1041,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 . <->"SimSun/ICU:mapping=tex-text;"
 . 
 . * 'bold' with NFSS spec.:
-. <->"SimHei/ICU:mapping=tex-text;"
+. <->"SimSun/ICU:mapping=tex-text;"
 . 
 . * 'italic' with NFSS spec.:
 . <->"SimSun/ICU:mapping=tex-text;slant=0.17;"
 . 
 . * 'bold italic' with NFSS spec.:
-. <->"SimHei/ICU:mapping=tex-text;slant=0.17;"
+. <->"SimSun/ICU:mapping=tex-text;slant=0.17;"
 .................................................
 .................................................
 . fontspec info: "no-scripts"
@@ -1058,10 +1057,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
+. Font family 'SimSun(1)' created for font 'SimSun' with options
 . [Mapping=tex-text,ItalicFont={SimSun},ItalicFeatures={RawFeature={slant=0.17}
-},BoldItalicFont={SimHei},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
-=SimHei].
+},BoldItalicFont={SimSun},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
+=SimSun].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1073,10 +1072,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
+. Font family 'SimSun(1)' created for font 'SimSun' with options
 . [Mapping=tex-text,ItalicFont={SimSun},ItalicFeatures={RawFeature={slant=0.17}
-},BoldItalicFont={SimHei},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
-=SimHei].
+},BoldItalicFont={SimSun},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
+=SimSun].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1088,10 +1087,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
+. Font family 'SimSun(1)' created for font 'SimSun' with options
 . [Mapping=tex-text,ItalicFont={SimSun},ItalicFeatures={RawFeature={slant=0.17}
-},BoldItalicFont={SimHei},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
-=SimHei].
+},BoldItalicFont={SimSun},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
+=SimSun].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1103,10 +1102,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
+. Font family 'SimSun(1)' created for font 'SimSun' with options
 . [Mapping=tex-text,ItalicFont={SimSun},ItalicFeatures={RawFeature={slant=0.17}
-},BoldItalicFont={SimHei},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
-=SimHei].
+},BoldItalicFont={SimSun},BoldItalicFeatures={RawFeature={slant=0.17}},BoldFont
+=SimSun].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1114,8 +1113,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ] [2] [3]
 Overfull \hbox (7.94887pt too wide) in paragraph at lines 162--163
-[]\EU1/lmr/m/n/10 Matlab 2015a \xeCJK@rm/m/n/10 及 以 上 与 \EU1/lmr/m/n/10
- C/ C + + (VC6.0 OpenCV1.0 & 2.4.*) VS2013(\xeCJK@rm/m/n/10 由
+[]\EU1/lmr/m/n/10 Matlab 2015a \xeCJK@rm/bx/n/10 及 以 上 与 \EU1/lmr/m/n/1
+0 C/ C + + (VC6.0 OpenCV1.0 & 2.4.*) VS2013(\xeCJK@rm/bx/n/10 由
  []
 
 [4] [5]
@@ -1127,11 +1126,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 277.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 277.
  ) 
 Here is how much of TeX's memory you used:
- 19939 strings out of 430478
- 382281 string characters out of 3191503
+ 19930 strings out of 430478
+ 382109 string characters out of 3191503
  414516 words of memory out of 3000000
- 22846 multiletter control sequences out of 15000+200000
- 7752 words of font info for 59 fonts, out of 3000000 for 9000
+ 22843 multiletter control sequences out of 15000+200000
+ 7720 words of font info for 55 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,6n,45p,688b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
 
