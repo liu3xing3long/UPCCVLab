@@ -15,9 +15,9 @@
             urlcolor=cyan}
 
 
-\title{课题组科研说明 V1.0} %标题
+\title{课题组科研说明 V1.1} %标题
 \author{宫延河}
-\date{2015年05月17日} %日期，不加默认为当前日期
+\date{2015年08月08日} %日期，不加默认为当前日期
 
 \begin{document}
 
@@ -125,8 +125,7 @@
 
 \item 国际期刊：PAMI、IJCV、PR、TIP、PR Letters、IEEE Trans. on Robotics and Automation
 
-\item 国内期刊：计算机学报、自动化学报、电子学报、软件学报、中国科学F辑、计算机辅助几何设计技术及应用、中国图象图形学报、模式识别与人工智能、光电子激光、光学 精密工程
-
+\item 国内期刊：计算机学报、自动化学报、电子学报、软件学报、中国科学F辑、计算机辅助几何设计技术及应用、中国图象图形学报、模式识别与人工智能
 \end{itemize}
 
 \section{科研安排}
@@ -155,15 +154,15 @@
 
 \begin{description}
 
-\item[操作系统] UNIX/Linux、Windows 7/8 64bit
+\item[操作系统] Windows/ubuntu 7 64bit
 
-\item[编译工具] CMake 3.2
+\item[编译工具] CMake 3.3
 
-\item[编程语言] Matlab 2015a及以上与C/C++(VC6.0 OpenCV1.0 \& 2.4.*) VS2013(由于github大量使用了C++11特性，VS2012及以下对其支持不充分)
+\item[编程语言] Matlab 2015a及以上与C/C++(VC6.0 OpenCV1.0 \& 2.4.11) VS2013及以上(由于caffe大量使用了C++11特性，VS2012及以下对其支持不充分)
 
-\item[并行加速工具] CUDA6.5
+\item[并行加速工具] CUDA7.0
 
-\item[脚本工具] python(x,y) 2.7.9
+\item[脚本工具] anaconda(python IDE)
 
 \item[文档排版工具] \LaTeX \& WinEdt8
 
@@ -181,7 +180,7 @@
 
 \begin{description}
 
-\item[入门]中科院自动化所献给CV和CG入门者之科研经验浅问细答兼与大家探讨 祥见群共享
+\item[入门]中科院自动化所献给CV和CG入门者之科研经验浅问细答兼与大家探讨
 
 \item[入门]《学术知识普及》
 
